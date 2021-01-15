@@ -15,3 +15,4 @@ Always open to lend an helping hand 😎
 ---
 
 Currently developing a re-usable AWS Cloudformation stack for fullstack cloud native applications.
+Also diving again back into .NET world with `asp.net core`.

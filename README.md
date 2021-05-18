@@ -5,7 +5,7 @@ Interested mostly in any aspect of web development and also on teaching and ment
 
 Always open to lend an helping hand 😎
 
-- 🔭 I'm currently looking for my next challenge, eager to participate in a product that promotes sustainability and social values!
+- 🏗️ Working at Doodle
 - 🌱 I’m currently learning more about Data Engineering and Web Semantics
 - 👯 I’m looking to collaborate on anything related with sustainability, healthcare and cybersecurity
 - 💬 Ask me about React Typescript and/or NodeJS

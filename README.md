@@ -13,4 +13,4 @@ Always open to lend an helping hand 😎
 
 ---
 
-Currently building my own visual identity for my small side projects which will focus on sustainability and health! Ping me if you wanna know more :)
+Currently learning Rust and furthering my knowledge of Design Systems and Frontend/UI Architectures.

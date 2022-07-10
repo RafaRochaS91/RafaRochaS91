@@ -5,10 +5,7 @@ Interested mostly in any aspect of web development and also on teaching and ment
 
 Always open to lend an helping hand 😎
 
-- 🏗️ Working at Doodle
-- 🌱 Currently learning Rust and furthering my knowledge of Design Systems and Frontend/UI Architectures.
-- 👯 I’m looking to collaborate on anything related with sustainability, healthcare and cybersecurity
-- 💬 Ask me about React Typescript and/or NodeJS
+- 🏗️ Working at Doodle and soon to be starting at [Personio](https://www.personio.com/hr/hr-software/?ads_adid=132400864262&ads_cmpid=16734950874&ads_creative=590729885227&ads_matchtype=e&ads_network=g&ads_targetid=kwd-308865887453&ttv=2&utm_campaign=S_UK_EN_BRA_CORE&utm_medium=ppc&utm_source=adwords&utm_term=personio&gclid=Cj0KCQjw8amWBhCYARIsADqZJoVoT4NhdI0riKF1PCdg8-ECd9iIHgHbdVzEsV5ixyd5SaMQ1Nr4IS8aAvgXEALw_wcB)!
+- 🌱 Currently refreshing my knowledge in Statistics, Linear Algebra and Calculus to transition to Data Engineering or ML Engineering;
 - 📫 How to reach me: drop me a message on [Linkedin](https://www.linkedin.com/in/rafael-rocha91/)
-
 ---

@@ -4,10 +4,12 @@ My name is Rafael Rocha, a Portuguese Software Engineer and Tech Enthusiast livi
 
 Always open to lend an helping hand 😎
 
-- **Humanitarian Tech Focus**: I’m a software engineer passionate about building open-source and ethical AI systems. My focus is on creating technology that prioritizes clarity, safety, and human dignity over profit or manipulation.  
+- **Humanitarian Tech Focus**: My focus is on creating technology that prioritizes clarity, safety, and human dignity over profit or manipulation.
 
-- **Open Source + Community Focus**: I use my skills in Node.js, React, and Go to strengthen open-source projects that resist misinformation and foster digital sovereignty. My mission is to align technology with values of transparency and care for humanity.  
+- **Tech Stack**: I mostly focus on web development, I'm mostly using JS/TS with different runtimes and the web platform.
 
-- **Future-Oriented Vision**: Engineer and builder working on humane AI and decentralized technologies. I believe intelligence without integrity is incomplete — and I aim to help create systems that empower, clarify, and protect people.
+- **Future-Oriented Vision**: Engineer and builder working on empowering both my peers and my consumers. I believe intelligence without integrity is incomplete — and I aim to help create systems that empower, clarify, and protect people.
 
 I want to create a better tomorrow by using my skills for the greater good of society.
+
+Hit me up if there's any projects with this in mind that I can be of assistance!
